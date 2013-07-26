@@ -16,7 +16,7 @@ LEGO Racers
 This mod, originally created by JimbobJeffers and with improvements by myself, reskins the Knightmare-Athon track to be [Nyan Cat](http://www.youtube.com/watch?v=QH2-TGUlwu4) themed. 
 Complete with custom music of the Nyan Cat's theme song, this mod will be sure to either please your inner cat, or anger your inner dog.
 
-<a href="https://github.com/le717/ShareIt/raw/master/Extras/Nyan_Cat-Athon_v1.1.1.zip">Download Nyan Cat-Athon (<strong>PatchIt! Version 1.1.1</strong>+)</a>
+<a href="https://github.com/le717/ShareIt/raw/master/Extras/Nyan_Cat-Athon_v1.1.1.zip">Nyan Cat-Athon (<strong>PatchIt! Version 1.1.1</strong>+)</a>
 
 #### Royally Crafted Raceway
 
@@ -34,9 +34,8 @@ LEGO LOCO
 ### Nimbus Station
 
 This map created by PANGOLIN2 is an recreation of Nimbus Station from LEGO Universe. It features Nimbus Plaza, Red Blocks, The Racetrack, and much more!
-**PatchIt! V1.1.1 Stable + only**
 
-[Download Nimbus Station (Direct link)](https://github.com/le717/ShareIt/Extras/raw/)
+<a href="https://github.com/le717/ShareIt/raw/master/Extras/Nimbus_Station_v1.0.zip">Nimbus Station (<strong>PatchIt! Version 1.1.1</strong>+)</a>
 
 
 Credits
