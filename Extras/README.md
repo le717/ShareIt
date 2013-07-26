@@ -16,7 +16,7 @@ LEGO Racers
 This mod, originally created by JimbobJeffers and with improvements by myself, reskins the Knightmare-Athon track to be [Nyan Cat](http://www.youtube.com/watch?v=QH2-TGUlwu4) themed. 
 Complete with custom music of the Nyan Cat's theme song, this mod will be sure to either please your inner cat, or anger your inner dog.
 
-[Download Nyan Cat-Athon (**PatchIt! Version 1.1.1**+)](https://github.com/le717/ShareIt/raw/master/Extras/Nyan_Cat-Athon_v1.1.1.zip)
+<a href="https://github.com/le717/ShareIt/raw/master/Extras/Nyan_Cat-Athon_v1.1.1.zip">Download Nyan Cat-Athon (<strong>PatchIt! Version 1.1.1</strong>+)</a>
 
 #### Royally Crafted Raceway
 
@@ -24,8 +24,7 @@ This interesting mod, created by Segatendo, reskins Royal Knights Raceway with M
 reflecting the calm/creative side of Minecraft, creating possibly the calmest mod available for this track!
 Royally Crafted Raceway is so calm that it might even calm you down enough to win the race. :P
 
-
-[Download Royally Crafted Raceway (**PatchIt! Version 1.1.1**+)](https://github.com/le717/ShareIt/raw/master/Extras/Royally_Crafted_Raceway_v1.0.1.zip)
+<a href="https://github.com/le717/ShareIt/raw/master/Extras/Royally_Crafted_Raceway_v1.0.1.zip">Royally Crafted Raceway (<strong>PatchIt! Version 1.1.1</strong>+)</a>
 
 LEGO LOCO
 ---------
