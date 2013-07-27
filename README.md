@@ -4,4 +4,4 @@
 ShareIt! 
 ========
 
-Contains all [**PatchIt!**](http://le717.github.io/PatchIt) Compatible LEGO® Racers mods.
+**ShareIt!** is the place to host and share _your_ [**PatchIt!**](http://le717.github.io/PatchIt) Compatible LEGO® Racers mods!
