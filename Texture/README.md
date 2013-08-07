@@ -10,7 +10,7 @@ _LEGO® Racers_ Texture Mods change the apperience of the game, and sometimes ch
 > I'd like to make an overhaul mod for Lego Racers which changes all the themes to Rock Raiders-related ones. 
   For instance, tracks will be re-textured to the biomes seen in the LRR game, and characters will be changed to look like LRR characters.
   
-<a href="https://github.com/le717/ShareIt/raw/master/Texture/Rock_Racers_1.0.3.1.zip">Lego Rock Racers V1.0.3.1 (<strong>PatchIt! Version 1.1.1</strong>+)</a>
+<a href="http://le717.github.io/ShareIt/Texture/Rock%20Racers/Rock_Racers_1.0.3.1.zip">Lego Rock Racers V1.0.3.1 (<strong>PatchIt! Version 1.1.1</strong>+)</a>
 
 Credits
 -------
